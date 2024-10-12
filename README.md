@@ -1,11 +1,11 @@
 
 # Shooter Madness
+**Shooter Madness** is an exciting 2D space shooter game built using Python and the Pygame library. Players control spaceships and compete against each other in an epic battle against meteors and each other, using various power-ups to enhance their gameplay. The game features custom animations for shooting, meteor explosions, and power-ups, providing a dynamic and engaging experience.
 
 ![Game Screenshot 1](Assets/screenshot3.png)
 ![Game Screenshot 2](Assets/screenshot1.png)
 ![Game Screenshot 3](Assets/screenshot2.png)
 
-**Shooter Madness** is an exciting 2D space shooter game built using Python and the Pygame library. Players control spaceships and compete against each other in an epic battle against meteors and each other, using various power-ups to enhance their gameplay. The game features custom animations for shooting, meteor explosions, and power-ups, providing a dynamic and engaging experience.
 
 ## Features
 - Fast-paced gameplay
@@ -44,6 +44,9 @@
 ## Acknowledgements
 - Pygame library for game development
 - Free assets used in the game
+
+## Project Showcase
+Watch the project showcase video [here](https://youtu.be/Qg_-fRTctFc).
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
